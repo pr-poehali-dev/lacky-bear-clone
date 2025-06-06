@@ -77,8 +77,8 @@ const CasinoFooter = () => {
             <ul className="space-y-2 text-gray-400 text-sm">
               <li>📧 support@luckybear.casino</li>
               <li>💬 Онлайн чат 24/7</li>
-              <li>📱 Telegram: @luckybear</li>
-              <li>🌐 luckybear.casino</li>
+              <li>📱 Telegram: @Casino_support333</li>
+              <li>🌐 LuckyBear.casino.org</li>
             </ul>
           </div>
         </div>
